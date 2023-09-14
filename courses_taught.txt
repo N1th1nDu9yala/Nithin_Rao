@@ -1,0 +1,1191 @@
+Recent courses taught by professor: Tarek Abdelzaher    Url: https://cs.illinois.edu/about/people/all-faculty/zaher
+ 
+ 
+['CS 424 - Real-Time Systems', 'CS 598 TAR - Social Sensing']
+ 
+ 
+Recent courses taught by professor: Sarita V Adve    Url: https://cs.illinois.edu/about/people/all-faculty/sadve
+ 
+ 
+['CS 433 (CSE 422) - Computer System Organization', 'CS 534 - Adv Topics in Comp Arch', 'CS 598 KT9 (CS 598 SVA) - App-Cust Heterogeneous Systems', 'ECE 499 SAO - Senior Thesis']
+ 
+ 
+Recent courses taught by professor: Vikram Adve    Url: https://cs.illinois.edu/about/people/all-faculty/vadve
+ 
+ 
+['CS 426 - Compiler Construction', 'CS 526 - Advanced Compiler Construction', 'CS 591 ACT - Advanced Seminar', 'CS 597 VSA - Individual Study', 'CS 598 LCE - Lang & Compilers for Edge Comp']
+ 
+ 
+Recent courses taught by professor: Gul A Agha    Url: https://cs.illinois.edu/about/people/all-faculty/agha
+ 
+ 
+['CS 498 GA - Smart Cities', 'CS 524 - Concurrent Progrmg Languages', 'CS 598 GA - Progming Languages Application']
+ 
+ 
+Recent courses taught by professor: Narendra Ahuja    Url: https://cs.illinois.edu/about/people/all-faculty/n-ahuja
+ 
+ 
+ Recent courses taught by  Narendra Ahuja  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Ram Alagappan    Url: https://cs.illinois.edu/about/people/all-faculty/ramn
+ 
+ 
+['CS 591 SN - Systems and Networking Seminar', 'CS 598 CDS (CS 598 RAP) - Cloud Stor Sys: Theory&Practic;']
+ 
+ 
+Recent courses taught by professor: Abdussalam  Alawini    Url: https://cs.illinois.edu/about/people/all-faculty/alawini
+ 
+ 
+['CS 411 - Database Systems', 'CS 498 AB3 (CS 498 AB4, CS 498 ABU) - Data Management in the Cloud']
+ 
+ 
+Recent courses taught by professor: Nancy M. Amato    Url: https://cs.illinois.edu/about/people/all-faculty/namato
+ 
+ 
+['CS 199 STR - CS Stars Seminar', 'CS 491 PD (CS 491 PDO) - Professional Development', 'CS 591 CS (CS 591 CSO, CS 591 PHD) - PHD Orientation Seminar']
+ 
+ 
+Recent courses taught by professor: Mark A Anastasio    Url: https://cs.illinois.edu/about/people/all-faculty/maa
+ 
+ 
+['BIOE 501 - Seminar Discussion', 'BIOE 588 - Biomedical Image Computing Cap', 'BIOE 589 - Biomed Img Comp Capstone Prjct', 'BIOE 598 MAA - Theoretical Image Science']
+ 
+ 
+Recent courses taught by professor: Lawrence Angrave    Url: https://cs.illinois.edu/about/people/all-faculty/angrave
+ 
+ 
+['CS 125 AL1 (CS 125 AL2, CS 125 AL3) - Intro to Computer Science', 'CS 199 241 (CS 199 341, CS 199 DYB) - De-Bug your Brain', 'CS 241 (CS 341) - System Programming', 'CS 296 41 - Honors Course', 'CS 498 RK1 (CS 498 RK2, CS 498 VR3, CS 498 VR4) - Virtual Reality']
+ 
+ 
+Recent courses taught by professor: Tal August    Url: https://cs.illinois.edu/about/people/all-faculty/taugust
+ 
+ 
+ Recent courses taught by  Tal August  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Brian P Bailey    Url: https://cs.illinois.edu/about/people/all-faculty/bpbailey
+ 
+ 
+['CS 465 - User Interface Design Studio', 'CS 498 MD (CS 498 MID) - Mobile Interactive Design', 'CS 565 - Human-Computer Interaction', 'CS 591 PH2 (CS 591 PHD, CS 591 TA) - Advanced Seminar']
+ 
+ 
+Recent courses taught by professor: Arindam Banerjee    Url: https://cs.illinois.edu/about/people/all-faculty/arindamb
+ 
+ 
+['CS 412 A3 (CS 412 A4, CS 412 P3, CS 412 P4, CS 412 PG, CS 412 PU) - Introduction to Data Mining', 'CS 591 MLR - Machine Learning Reading Grp', 'CS 598 BAN (CS 598 BOF) - Deep Gen & Dyn Models']
+ 
+ 
+Recent courses taught by professor: Adam Bates    Url: https://cs.illinois.edu/about/people/all-faculty/batesa
+ 
+ 
+['CS 423 (CSE 423) - Operating Systems Design', 'CS 461 (ECE 422) - Computer Security I', 'CS 563 (ECE 524) - Advanced Computer Security', 'CS 598 OSS - Operating System Security']
+ 
+ 
+Recent courses taught by professor: Mattox Alan Beckman    Url: https://cs.illinois.edu/about/people/all-faculty/mattox
+ 
+ 
+['CS 101 - Intro Computing: Engrg & Sci', 'CS 199 225 (CS 199 CTS) - Computational Tech & Society', 'CS 225 - Data Structures', 'CS 296 25 - Honors Course', 'CS 421 - Progrmg Languages & Compilers', 'CS 491 CAP (CS 491 FPL, CS 491 WF) - Adv Competitive Algorithm Prog', 'CS 591 TA (CS 591 TAO) - Computational Topology', 'ECE 590 TL - Teaching and Leadership', 'ENG 598 TL (ENG 598 TL2) - Teaching and Leadership 2']
+ 
+ 
+Recent courses taught by professor: Suma Bhat    Url: https://cs.illinois.edu/about/people/all-faculty/spbhat2
+ 
+ 
+['ECE 120 - Introduction to Computing', 'ECE 365 - Data Science and Engineering', 'ECE 594 - Math Models of Language']
+ 
+ 
+Recent courses taught by professor: Catherine Lesley Blake    Url: https://cs.illinois.edu/about/people/all-faculty/clblake
+ 
+ 
+['IS 455 - Database Design & Prototyping', 'IS 490 - Introduction to Databases', 'IS 549 - Practicum', 'IS 567 - Text Mining', 'IS 590 - Text Mining']
+ 
+ 
+Recent courses taught by professor: Nikita Borisov    Url: https://cs.illinois.edu/about/people/all-faculty/nikita
+ 
+ 
+['CS 374 ADA (CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADJ, CS 374 ADK, CS 374 AL1, CS 374 BL1, CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 BYG, CS 374 BYH, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADJ, ECE 374 ADK, ECE 374 AL1, ECE 374 BL1, ECE 374 BLZ, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 BYG, ECE 374 BYH) - Intro to Algs & Models of Comp', 'CS 425 (ECE 428) - Distributed Systems', 'CS 461 (ECE 422) - Computer Security I', 'CS 598 NB - Privacy Enhancing Technologies', 'ECE 120 - Introduction to Computing', 'ECE 220 - Computer Systems & Programming', 'ECE 391 - Computer Systems Engineering', 'ECE 598 NB - Privacy Enhancing Technologies']
+ 
+ 
+Recent courses taught by professor: Timothy Bretl    Url: https://cs.illinois.edu/about/people/all-faculty/tbretl
+ 
+ 
+['AE 353 - Aerospace Control Systems', 'AE 483 - Autonomous Systems Lab', 'AE 598 RL - Reinforcement Learning', 'ECE 470 (AE 482, ME 445) - Introduction to Robotics', 'ME 598 MW (ME 598 RL) - Reinforcement Learning']
+ 
+ 
+Recent courses taught by professor: Robert J Brunner    Url: https://cs.illinois.edu/about/people/all-faculty/bigdog
+ 
+ 
+['ACCY 199 - Technology and Disruption', 'ACCY 570 - Data Analytics for Acct B', 'ACCY 571 - Stat Analyses for Accountancy', 'BDI 199 - Technology and Disruption', 'BDI 411 - Blockchain Applications', 'BDI 477 - Technology and Disruption', 'BUS 199 - Technology and Disruption', 'CS 199 ACC - Applied Cloud Computing', 'CS 398 ACC - Applied Cloud Computing', 'INFO 490 RB (INFO 490 RB2) - Advanced Data Science', 'INFO 597 RB2 - Individual Study', 'IS 490 - Advanced Data Science', 'STAT 430 - Foundations of Data Science']
+ 
+ 
+Recent courses taught by professor: Matthew Caesar    Url: https://cs.illinois.edu/about/people/all-faculty/caesar
+ 
+ 
+['CS 437 CHI (CS 437 DSO, CS 437 IOT, CS 437 IT3, CS 437 IT4, CS 437 MCS) - Topics in Internet of Things', 'CS 497 - CS Team Project', 'CS 498 ISE (CS 498 IT3, CS 498 IT4, CS 498 ITC, CS 498 ITF, CS 498 ITO) - Internet of Things', 'ECE 435 (CS 436) - Computer Networking Laboratory']
+ 
+ 
+Recent courses taught by professor: Roy H Campbell    Url: https://cs.illinois.edu/about/people/all-faculty/rhc
+ 
+ 
+['CS 491 CB - Cyber Security Scholar Program', 'CS 498 AB1 (CS 498 AB2, CS 498 AB3, CS 498 AL1, CS 498 DSG, CS 498 DSO, CS 498 DSU) - Data Science & Analytics', 'CS 523 - Advanced Operating Systems', 'CS 591 CCR (CS 591 RHC) - Security Reading Seminar', 'CS 598 ETC (CS 598 HDA) - Health Data Analysis', 'ECE 498 DSG (ECE 498 DSU) - Data Science & Analytics', 'ECE 598 ETC - Ethical Thinking-Cyber Space', 'IS 590 - Ethical Thinking-Cyber Space', 'LAW 797 - Digital Forensics II']
+ 
+ 
+Recent courses taught by professor: George Chacko    Url: https://cs.illinois.edu/about/people/all-faculty/chackoge
+ 
+ 
+['CS 598 GGC - Computational Scientometrics']
+ 
+ 
+Recent courses taught by professor: Geoffrey Werner Challen    Url: https://cs.illinois.edu/about/people/all-faculty/challen
+ 
+ 
+['CS 124 - Intro to Computer Science I', 'CS 125 AL1 (CS 125 AL2, CS 125 AL3, CS 125 ALP, CS 125 AYA, CS 125 AYB, CS 125 AYC, CS 125 AYD, CS 125 AYE, CS 125 AYF, CS 125 AYG, CS 125 AYH, CS 125 AYI, CS 125 AYJ, CS 125 AYK, CS 125 AYL, CS 125 AYM, CS 125 AYN, CS 125 AYO, CS 125 AYP, CS 125 AYQ, CS 125 AYR, CS 125 AYS, CS 125 AYT, CS 125 AYU, CS 125 AYV, CS 125 AYW, CS 125 AYX, CS 125 AYY) - Intro to Computer Science', 'CS 196 124 (CS 196 25) - Freshman Honors', 'CS 199 012 (CS 199 12, CS 199 124, CS 199 125, CS 199 196, CS 199 25, CS 199 DYB, CS 199 EMP, CS 199 IKP) - Undergraduate Open Seminar']
+ 
+ 
+Recent courses taught by professor: Timothy Moon-Yew Chan    Url: https://cs.illinois.edu/about/people/all-faculty/tmc
+ 
+ 
+['CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp', 'CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 498 DL1 (CS 498 TC3, CS 498 TC4) - Computational Geometry', 'CS 574 - Randomized Algorithms', 'CS 598 TMC - Topics in Comp. Geometry']
+ 
+ 
+Recent courses taught by professor: Karthekeyan Chandrasekaran    Url: https://cs.illinois.edu/about/people/all-faculty/karthe
+ 
+ 
+['IE 310 - Determin Models in Optmzation', 'IE 311 - Operations Research Lab', 'IE 511 - Integer Programming', 'IE 519 (CS 586) - Combinatorial Optimization', 'IE 598 KC - Combinatorial Optimization']
+ 
+ 
+Recent courses taught by professor: Eshwar Chandrasekharan    Url: https://cs.illinois.edu/about/people/all-faculty/eshwar
+ 
+ 
+['CS 498 AS3 (CS 498 ASG, CS 498 ASU, CS 498 SCG, CS 498 SCU) - Social Computing', 'CS 598 ECH (CS 598 EWS, CS 598 RBO, CS 598 SC, CS 598 SMC, CS 598 SPH) - Research Methods in HCI']
+ 
+ 
+Recent courses taught by professor: Kevin Chenchuan Chang    Url: https://cs.illinois.edu/about/people/all-faculty/kcchang
+ 
+ 
+['CS 411 - Database Systems', 'CS 412 CSP - Introduction to Data Mining', 'CS 511 - Advanced Data Management', 'CS 598 KCC (CS 598 KCO) - Listening to Social Universe']
+ 
+ 
+Recent courses taught by professor: Chandra Sekhar Chekuri    Url: https://cs.illinois.edu/about/people/all-faculty/chekuri
+ 
+ 
+['CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, CS 374 ADA, CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADJ, CS 374 ADK, CS 374 BL1, CS 374 BYA, CS 374 BYB, CS 374 BYC, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADJ, ECE 374 ADK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK, ECE 374 BL1, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC) - Intro to Algs & Models of Comp', 'CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 498 ABD (CS 498 ABG, CS 498 ABU) - Algorithms for Big Data', 'CS 583 - Approximation Algorithms', 'CS 598 CCI - Topics in Graph Algorithms', 'IE 519 (CS 586) - Combinatorial Optimization']
+ 
+ 
+Recent courses taught by professor: Deming Chen    Url: https://cs.illinois.edu/about/people/all-faculty/dchen
+ 
+ 
+['ECE 411 - Computer Organization & Design', 'ECE 462 - Logic Synthesis', 'ECE 479 - IoT and Cognitive Computing', 'ECE 498 ICC (ECE 498 IL1, ECE 498 IL2, ECE 498 IL3, ECE 498 IL4) - IoT and Cognitive Computing', 'ECE 527 - System-On-Chip Design']
+ 
+ 
+Recent courses taught by professor: Wendy K Tam Cho    Url: https://cs.illinois.edu/about/people/all-faculty/wendycho
+ 
+ 
+['PS 300 - Law of Democracy', 'PS 302 - The US Constitution II', 'PS 323 - Law and Representation', 'PS 531 - Quant Pol Analysis II', 'PS 532 - Quant Pol Analysis III', 'PS 590 - Statistical Computing']
+ 
+ 
+Recent courses taught by professor: Girish Chowdhary    Url: https://cs.illinois.edu/about/people/all-faculty/girishc
+ 
+ 
+['ABE 424 (ABE 426) - Prnpl Mobile Robotics', 'ABE 498 AB1 (ABE 498 AB2, ABE 498 AL1) - Intro to Field Robotics', 'ABE 526 - Autonomous Systems and Robots', 'ABE 594 - Graduate Seminar', 'ABE 598 - Autonomous Decision Making', 'CS 498 GC1 (CS 498 GC2, CS 498 GC3, CS 498 GCG, CS 498 GCU) - Mobile Robotics for CS', 'CS 598 GC - Robotics', 'ECE 498 GR - Principles of Mobile Robotics', 'TSM 594 - Graduate Seminar']
+ 
+ 
+Recent courses taught by professor: Camille Cobb    Url: https://cs.illinois.edu/about/people/all-faculty/camillec
+ 
+ 
+['CS 464 - Topics in Societal Impacts', 'CS 591 SP - Security and Privacy', 'CS 597 CAC - Individual Study', 'CS 598 CAC (CS 598 SMC, CS 598 SPH, CS 598 UCP) - Usable Cybersecurity & Priv']
+ 
+ 
+Recent courses taught by professor: Benjamin Cosman    Url: https://cs.illinois.edu/about/people/all-faculty/bcosman
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 196 73 - Freshman Honors', 'CS 199 173 - Supplementary proj for CS-173', 'CS 296 73 - Honors Course', 'CS 475 (MATH 475) - Formal Models of Computation']
+ 
+ 
+Recent courses taught by professor: Katie Cunningham    Url: https://cs.illinois.edu/about/people/all-faculty/katcun
+ 
+ 
+['CS 500 - Topics in Comp Ed Rsrch', 'CS 591 CED - Computers and Education', 'CS 598 KMC (CS 598 KPH) - Foundations for Comp. Ed Res.']
+ 
+ 
+Recent courses taught by professor: Ryan Matthew Cunningham    Url: https://cs.illinois.edu/about/people/all-faculty/rcunnin2
+ 
+ 
+['CS 210 - Ethical & Professional Issues', 'CS 211 EA1 (CS 211 EPC) - Ethical & Professional Conduct', 'CS 461 (ECE 422) - Computer Security I', 'CS 498 RC1 (CS 498 RC2) - Law &Policy; Issues in CS', 'INFO 102 (CS 102) - Little Bits to Big Ideas']
+ 
+ 
+Recent courses taught by professor: David M Dalpiaz    Url: https://cs.illinois.edu/about/people/all-faculty/dalpiaz2
+ 
+ 
+['CS 307 - Model & Learning in Data Sci', 'STAT 385 - Statistics Programming Methods', 'STAT 400 (MATH 463) - Statistics and Probability I', 'STAT 430 - Basics of Statistical Learning', 'STAT 432 (ASRM 451) - Basics of Statistical Learning', 'STAT 510 - Mathematical Statistics I', 'STAT 593 - STAT Internship']
+ 
+ 
+Recent courses taught by professor: Gerald F DeJong, II    Url: https://cs.illinois.edu/about/people/all-faculty/mrebl
+ 
+ 
+ Recent courses taught by  Gerald F DeJong, II  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Payam Delgosha    Url: https://cs.illinois.edu/about/people/all-faculty/delgosha
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 498 AML (CS 498 AMO) - Applied Machine Learning', 'CS 598 DEL - Methods & Algor. in Lg. Graphs']
+ 
+ 
+Recent courses taught by professor: Jana Diesner    Url: https://cs.illinois.edu/about/people/all-faculty/jdiesner
+ 
+ 
+['INFO 590 - Seminar in AI and Social Compu', 'INFO 597 JD2 - Individual Study', 'IS 524 - Data Governance', 'IS 527 (IS 559) - Network Analysis', 'IS 569 - Internship', 'IS 588 - Research Design in LIS', 'IS 590 - Adv Tpcs-Mach Learn & Soc Comp', 'IS 597 - Responsible Data Science & AI', 'MATH 492 - Conflict-Related Displacement']
+ 
+ 
+Recent courses taught by professor: Minh N Do    Url: https://cs.illinois.edu/about/people/all-faculty/minhdo
+ 
+ 
+['ECE 310 - Digital Signal Processing', 'ECE 311 - Digital Signal Processing Lab', 'ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 398 BD - Making Sense of Big Data', 'ECE 513 - Vector Space Signal Processing', 'ECE 590 SIN - Signals, Inferences & Networks']
+ 
+ 
+Recent courses taught by professor: Katie Driggs-Campbell    Url: https://cs.illinois.edu/about/people/all-faculty/krdc
+ 
+ 
+['ECE 470 (AE 482, ME 445) - Introduction to Robotics', 'ECE 484 - Principles of Safe Autonomy', 'ECE 498 SM (ECE 498 SMA) - Principles of Safe Autonomy', 'ECE 590 K - Human-Centered Autonomy', 'ECE 598 HCO (ECE 598 HRI, ECE 598 HRO, ECE 598 KDC) - Human Robot Interaction']
+ 
+ 
+Recent courses taught by professor: Geir Dullerud    Url: https://cs.illinois.edu/about/people/all-faculty/dullerud
+ 
+ 
+['ECE 528 (ME 546, SE 520) - Analysis of Nonlinear Systems', 'ME 340 - Dynamics of Mechanical Systems', 'ME 360 AL1 (ME 360 OL1, ME 360 ZJ1, ME 360 ZJE, ME 360 ZJU) - Signal Processing', 'ME 561 - Convex Methods in Control', 'TAM 212 - Introductory Dynamics']
+ 
+ 
+Recent courses taught by professor: Mohammed El-Kebir    Url: https://cs.illinois.edu/about/people/all-faculty/melkebir
+ 
+ 
+['CS 466 - Introduction to Bioinformatics', 'CS 591 BIO - Bioinformatics and Computation', 'CS 598 MEB - Computational Cancer Genomics']
+ 
+ 
+Recent courses taught by professor: Jeff Erickson    Url: https://cs.illinois.edu/about/people/all-faculty/jeffe
+ 
+ 
+['CS 199 225 - Supplementary proj. for CS-225', 'CS 225 - Data Structures', 'CS 374 ADA (CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADK, CS 374 ADL, CS 374 AL1, CS 374 AL2, CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADK, ECE 374 AL1, ECE 374 AL2, ECE 374 ALZ, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp', 'CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 498 TC3 (CS 498 TC4, CS 498 TCU) - Computational Geometry', 'CS 591 TCS - Advanced Seminar', 'CS 598 JGE - Algorithms for 1D Structures']
+ 
+ 
+Recent courses taught by professor: Carl Evans    Url: https://cs.illinois.edu/about/people/all-faculty/gcevans
+ 
+ 
+['CS 126 - Software Design Studio', 'CS 173 - Discrete Structures', 'CS 199 225 - Supplementary Proj for CS 225', 'CS 225 - Data Structures', 'CS 241 - System Programming', 'CS 296 25 (CS 296 41) - Honors Course', 'CS 340 - Intro to Computer Systems', 'CS 426 - Compiler Construction']
+ 
+ 
+Recent courses taught by professor: Wade A Fagen-Ulmschneider    Url: https://cs.illinois.edu/about/people/all-faculty/waf
+ 
+ 
+['CS 225 - Data Structures', 'CS 296 25 - Honors Course', 'CS 340 (CS 240) - Intro to Computer Systems', 'CS 423 (CSE 423) - Operating Systems Design', 'CS 498 CSF - Accelerated CS Fundamentals', 'ENG 199 PUR - PURE Research Program', 'STAT 107 (CS 107, IS 107) - Data Science Discovery', 'STAT 199 - Undergraduate Open Seminar']
+ 
+ 
+Recent courses taught by professor: Paul Fischer    Url: https://cs.illinois.edu/about/people/all-faculty/fischerp
+ 
+ 
+['CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis', 'CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs', 'CS 556 (CSE 511) - Iterative & Multigrid Methods', 'TAM 470 (CSE 450) - Computational Mechanics', 'TAM 570 (CSE 560) - Computational Fluid Mechanics']
+ 
+ 
+Recent courses taught by professor: Margaret M Fleck    Url: https://cs.illinois.edu/about/people/all-faculty/mfleck
+ 
+ 
+['CS 100 - Computer Science Orientation', 'CS 173 - Discrete Structures', 'CS 196 73 - Freshman Honors', 'CS 440 (ECE 448) - Artificial Intelligence']
+ 
+ 
+Recent courses taught by professor: Christopher Wardlaw Fletcher    Url: https://cs.illinois.edu/about/people/all-faculty/cwfletch
+ 
+ 
+['CS 433 (CSE 422) - Computer System Organization', 'CS 563 (ECE 524) - Advanced Computer Security', 'CS 591 SP - Security and Privacy', 'CS 598 CLF - Secure Processor Design']
+ 
+ 
+Recent courses taught by professor: Michael A Forbes    Url: https://cs.illinois.edu/about/people/all-faculty/miforbes
+ 
+ 
+['CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 579 (ECE 579) - Computational Complexity', 'CS 598 MAF (CS 598 PSR) - Pseudorandomness']
+ 
+ 
+Recent courses taught by professor: David Forsyth    Url: https://cs.illinois.edu/about/people/all-faculty/daf
+ 
+ 
+['CS 497 - CS Team Project', 'CS 498 AM1 (CS 498 AML, CS 498 AMO, CS 498 CSP, CS 498 ONL) - Applied Machine Learning', 'CS 544 - Optimiz in Computer Vision', 'CS 588 - Autonomous Vehicle System Eng', 'CS 591 DAF - Vision Seminar', 'CS 598 AIG (CS 598 MAV) - Methods for Bld Auton Vehicles', 'ECE 549 (CS 543) - Computer Vision', 'ECE 598 MAV - Methods for Bld Auton Vehicles']
+ 
+ 
+Recent courses taught by professor: H George Friedman    Url: https://cs.illinois.edu/about/people/all-faculty/friedman
+ 
+ 
+ Recent courses taught by  H George Friedman  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Aishwarya Ganesan    Url: https://cs.illinois.edu/about/people/all-faculty/aganesn2
+ 
+ 
+['CS 425 (ECE 428) - Distributed Systems', 'CS 591 SN - Systems and Networking Seminar', 'CS 598 AWG (CS 598 FTS) - Fault-Tol. Consisten Data Sys']
+ 
+ 
+Recent courses taught by professor: Jugal Garg    Url: https://cs.illinois.edu/about/people/all-faculty/jugal
+ 
+ 
+['IE 310 - Determin Models in Optmzation', 'IE 405 - Computing for ISE', 'IE 498 C1 (IE 498 C2) - Cmptng for ISE', 'IE 590 - Seminar', 'IE 598 JG (IE 598 GT) - Games, Mkts, & Mathmtcl Prog', 'SE 590 - Seminar']
+ 
+ 
+Recent courses taught by professor: Yael Gertner    Url: https://cs.illinois.edu/about/people/all-faculty/ygertner
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 401 - Accel Fund of Algorithms I', 'CS 403 - Accel Fund of Algorithms II', 'CS 491 ECO (CS 491 EIC) - Excursions in computing II', 'CS 498 FOA - Fundamentals of Algorithms II', 'CS 591 EIC - Excursions in Computing II']
+ 
+ 
+Recent courses taught by professor: Saugata Ghose    Url: https://cs.illinois.edu/about/people/all-faculty/ghose
+ 
+ 
+['CS 233 - Computer Architecture', 'CS 433 (CSE 422) - Computer System Organization', 'CS 498 ME1 (CS 498 ME2) - Arch. for Mobile & Edge Comp.', 'CS 534 - Adv Topics in Comp Arch', 'CS 591 CAP - Arch./Compilers/Parallel Comp.', 'CS 598 SG - Arch. for Mobile & Edge Comp.', 'ECE 590 CAP - Arch./Compilers/Parallel Comp.']
+ 
+ 
+Recent courses taught by professor: Roxana Girju    Url: https://cs.illinois.edu/about/people/all-faculty/girju
+ 
+ 
+['LING 270 - Language, Technology & Society', 'LING 406 - Intro to Computational Ling', 'LING 413 - Corpus Linguistics', 'LING 490 - Special Topics in Linguistics', 'LING 506 - Topics in Computational Ling', 'LING 590 - Special Topics in Linguistics']
+ 
+ 
+Recent courses taught by professor: Brighten Godfrey    Url: https://cs.illinois.edu/about/people/all-faculty/pbg
+ 
+ 
+['CS 435 - Cloud Networking', 'CS 498 CN1 (CS 498 CN2, CS 498 CNO, CS 498 MCO) - Cloud Networking', 'CS 538 - Advanced Computer Networks']
+ 
+ 
+Recent courses taught by professor: Mani Golparvar Fard    Url: https://cs.illinois.edu/about/people/all-faculty/mgolpar
+ 
+ 
+['CEE 320 - Construction Engineering', 'CEE 522 - Visual Data Analytics', 'CEE 595 AIC - AI in Construction', 'CEE 598 BIC (CEE 598 BIM, CEE 598 BIO, CEE 598 VSO) - Visual Sensing in Civil Infra']
+ 
+ 
+Recent courses taught by professor: William D Gropp    Url: https://cs.illinois.edu/about/people/all-faculty/wgropp
+ 
+ 
+ Recent courses taught by  William D Gropp  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Kaiyu Guan    Url: https://cs.illinois.edu/about/people/all-faculty/kaiyug
+ 
+ 
+['NRES 401 (GEOG 401, GGIS 401) - Watershed Hydrology', 'NRES 402 - Ecohydrology & Water Mgmt', 'NRES 499 - Ecohydrology & Water Managemnt', 'NRES 512 - Terrestrial Eco Remote Sensing', 'NRES 522 - Remote Sensing Applications', 'NRES 598 - Terrestrial Remote Sensing App']
+ 
+ 
+Recent courses taught by professor: Liangyan Gui    Url: https://cs.illinois.edu/about/people/all-faculty/lgui
+ 
+ 
+['CS 446 (ECE 449) - Machine Learning', 'CS 598 GUI - Efficient & Predictive Vision']
+ 
+ 
+Recent courses taught by professor: Carl Gunter    Url: https://cs.illinois.edu/about/people/all-faculty/cgunter
+ 
+ 
+['CS 463 (ECE 424) - Computer Security II', 'CS 464 - Topics in Societal Impacts', 'CS 498 CD - Cyber Dystopia', 'CS 563 (ECE 524) - Advanced Computer Security', 'CS 598 CG - Sec. & Privacy for Home IOT']
+ 
+ 
+Recent courses taught by professor: Elsa Gunter    Url: https://cs.illinois.edu/about/people/all-faculty/egunter
+ 
+ 
+['CS 100 - Freshman Orientation', 'CS 105 - Intro Computing: Non-Tech', 'CS 421 - Progrmg Languages & Compilers', 'CS 477 (ECE 478) - Formal Software Devel Methods', 'CS 591 FM (CS 591 IG) - ADV Sem in Distributed Systems', 'CS 598 SVA - App-Cust Heterogeneous Systems']
+ 
+ 
+Recent courses taught by professor: Indranil Gupta    Url: https://cs.illinois.edu/about/people/all-faculty/indy
+ 
+ 
+['CS 425 (ECE 428) - Distributed Systems', 'CS 525 - Advanced Distributed Systems', 'CS 591 IG (CS 591 JI, CS 591 SN) - Systems and Networking Seminar', 'CS 598 CC1 (CS 598 CC2) - Cloud Computing Capstone']
+ 
+ 
+Recent courses taught by professor: Saurabh Gupta    Url: https://cs.illinois.edu/about/people/all-faculty/saurabhg
+ 
+ 
+['CS 444 - Deep Learning for Compt Visn', 'CS 597 SRG - Individual Study', 'CS 598 SG (CS 598 SGO) - Learning-Based Robotics', 'ECE 549 (CS 543) - Computer Vision', 'ECE 598 SG (ECE 598 SGO) - Learning-Based Robotics']
+ 
+ 
+Recent courses taught by professor: Jiawei Han    Url: https://cs.illinois.edu/about/people/all-faculty/hanj
+ 
+ 
+['CS 412 A3 (CS 412 CHI, CS 412 DSO, CS 412 ONL, CS 412 P3, CS 412 P4, CS 412 PW) - Introduction to Data Mining', 'CS 498 DSG (CS 498 DSU) - Data Science & Analytics', 'CS 512 - Data Mining Principles', 'CS 597 JWH - Individual Study', 'CS 598 JH - Text Mining: A New Paradigm', 'ECE 498 DSG (ECE 498 DSU) - Data Science & Analytics']
+ 
+ 
+Recent courses taught by professor: Mehdi T Harandi    Url: https://cs.illinois.edu/about/people/all-faculty/harandi
+ 
+ 
+ Recent courses taught by  Mehdi T Harandi  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Sariel Har-Peled    Url: https://cs.illinois.edu/about/people/all-faculty/sariel
+ 
+ 
+['CS 374 ADA (CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADK, CS 374 ADL, CS 374 AL1, CS 374 ADJ, CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADJ, ECE 374 ADK, ECE 374 ADL, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK, ECE 374 ZJU) - Intro to Algs & Models of Comp', 'CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 498 RA3 (CS 498 RA4, CS 498 SH3, CS 498 SHG, CS 498 SHU, CS 498 TO1, CS 498 TO2) - Topics in Algorithms', 'CS 574 - Randomized Algorithms', 'CS 597 SHP - Individual Study', 'CS 598 SHP - fixed-parameter tractable algo']
+ 
+ 
+Recent courses taught by professor: John C Hart    Url: https://cs.illinois.edu/about/people/all-faculty/jch
+ 
+ 
+['CIC 500 - CIC Traveling Scholar', 'CS 416 - Data Visualization', 'CS 418 (CSE 427) - Interactive Computer Graphics', 'CS 498 DDV (CS 498 DV) - Data Visualiztion', 'GC 498 - Graduate Domestic Study Away', 'GC 499 - Graduate College Study Abroad', 'GC 599 - Thesis Research']
+ 
+ 
+Recent courses taught by professor: Mark Hasegawa-Johnson    Url: https://cs.illinois.edu/about/people/all-faculty/jhasegaw
+ 
+ 
+['CS 440 (ECE 448) - Artificial Intelligence', 'ECE 401 - Signal and Image Analysis', 'ECE 417 - Multimedia Signal Processing', 'ECE 537 - Speech Processing Fundamentals', 'ECE 590 SIC (ECE 590 SIO, ECE 590 SIP) - Speech']
+ 
+ 
+Recent courses taught by professor: Kris K Hauser    Url: https://cs.illinois.edu/about/people/all-faculty/kkhauser
+ 
+ 
+['CS 498 IR1 (CS 498 IR2, CS 498 IR3, CS 498 IR4, CS 498 IRU) - AI for Robot Manipulation', 'CS 588 - Autonomous Vehicle System Eng', 'CS 597 KKH - Individual Study', 'CS 598 KKH - ADV Comp. Topics in Robotics', 'ENG 572 - Professional Practicum', 'ENG 573 - Capstone Project']
+ 
+ 
+Recent courses taught by professor: Jing Rui He    Url: https://cs.illinois.edu/about/people/all-faculty/jingrui
+ 
+ 
+['IS 407 - Introduction to Data Science', 'IS 577 - Data Mining', 'IS 590 - Data Mining', 'STAT 430 - Introduction to Data Science']
+ 
+ 
+Recent courses taught by professor: David Heath    Url: https://cs.illinois.edu/about/people/all-faculty/daheath
+ 
+ 
+['CS 591 SP - Security and Privacy', 'CS 598 DH - Secure Computation', 'ECE 407 (CS 407) - Cryptography']
+ 
+ 
+Recent courses taught by professor: Michael T Heath    Url: https://cs.illinois.edu/about/people/all-faculty/heath
+ 
+ 
+['CS 450 - Numerical Analysis', 'CS 591 MH - Advanced Seminar']
+ 
+ 
+Recent courses taught by professor: Geoffrey Lindsay Herman    Url: https://cs.illinois.edu/about/people/all-faculty/glherman
+ 
+ 
+['CS 199 233 - Supplementary proj for CS-233', 'CS 233 - Computer Architecture', 'CS 296 33 - Honors Course', 'CS 498 GH3 (CS 498 GH4, CS 498 OL3, CS 498 OL4) - Intro to Online Learning Sys', 'CS 500 - Topics in Comp Ed Rsrch', 'CS 591 CED - Computers and Education', 'CS 598 GLE (CS 598 GLH) - Learning and Comp Science']
+ 
+ 
+Recent courses taught by professor: Julia Hockenmaier    Url: https://cs.illinois.edu/about/people/all-faculty/juliahmr
+ 
+ 
+['CS 440 (ECE 448) - Artificial Intelligence', 'CS 447 - Natural Language Processing', 'CS 546 - Machine Learning in NLP']
+ 
+ 
+Recent courses taught by professor: Derek W Hoiem    Url: https://cs.illinois.edu/about/people/all-faculty/dhoiem
+ 
+ 
+['CS 441 - Applied Machine Learning', 'CS 445 - Computational Photography', 'CS 598 DWH - 3D Vision']
+ 
+ 
+Recent courses taught by professor: Yih-Chun Hu    Url: https://cs.illinois.edu/about/people/all-faculty/yihchun
+ 
+ 
+['ECE 198 YH - Comp Apps-Discrete Mathematics', 'ECE 220 - Computer Systems & Programming', 'ECE 391 - Computer Systems Engineering', 'ECE 428 - Distributed Systems']
+ 
+ 
+Recent courses taught by professor: Jian Huang    Url: https://cs.illinois.edu/about/people/all-faculty/jianh
+ 
+ 
+['ECE 391 - Computer Systems Engineering', 'ECE 411 - Computer Organization & Design', 'ECE 511 (CSE 521) - Computer Architecture', 'ECE 522 - Emerging Memory/Storage System', 'ECE 598 MS - Adv Memory & Storage Systems']
+ 
+ 
+Recent courses taught by professor: Yun Huang    Url: https://cs.illinois.edu/about/people/all-faculty/yunhuang
+ 
+ 
+['IS 226 - Introduction to HCI', 'IS 424 - Social Computing', 'IS 455 - Database Design & Prototyping', 'IS 490 - Social Computing', 'IS 496 - Design for Social Interact Exp']
+ 
+ 
+Recent courses taught by professor: Wen-mei Hwu    Url: https://cs.illinois.edu/about/people/all-faculty/w-hwu
+ 
+ 
+['ECE 408 (CS 483, CSE 408) - Applied Parallel Programming', 'ECE 498 ICC (ECE 498 IL1, ECE 498 IL2, ECE 498 IL3, ECE 498 IL4) - IoT and Cognitive Computing', 'ECE 508 (CS 508) - Manycore Parallel Algorithms']
+ 
+ 
+Recent courses taught by professor: Ravishankar K Iyer    Url: https://cs.illinois.edu/about/people/all-faculty/rkiyer
+ 
+ 
+['CS 498 DSG (CS 498 DSU) - Data Science & Analytics', 'ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 314 - Probability in Engineering Lab', 'ECE 471 - Data Science Analytics and PGM', 'ECE 498 DSG (ECE 498 DSU) - Data Science & Analytics', 'ECE 542 (CS 536) - Fault-Tolerant Dig Syst Design', 'ECE 598 RKI - Dependable AI Systems']
+ 
+ 
+Recent courses taught by professor: Reyhaneh Jabbarvand    Url: https://cs.illinois.edu/about/people/all-faculty/reyhaneh
+ 
+ 
+['CS 427 (CSE 426) - Software Engineering I', 'CS 527 - Topics in Software Engineering', 'CS 591 SE - Software Engineering Seminar', 'CS 598 CMC (CS 598 JBR) - ML for Software Engineering']
+ 
+ 
+Recent courses taught by professor: Sheldon Howard Jacobson    Url: https://cs.illinois.edu/about/people/all-faculty/shj
+ 
+ 
+['IE 410 (CS 481) - Stochastic Processes & Applic', 'IE 413 (CS 482) - Simulation']
+ 
+ 
+Recent courses taught by professor: Heng Ji    Url: https://cs.illinois.edu/about/people/all-faculty/hengji
+ 
+ 
+['CS 546 - Adv Topics in NLP', 'CS 598 HJ - Knowledge-driven Nat Lang Gen']
+ 
+ 
+Recent courses taught by professor: Nan Jiang    Url: https://cs.illinois.edu/about/people/all-faculty/nanjiang
+ 
+ 
+['CS 443 - Reinforcement Learning', 'CS 498 RL1 (CS 498 RL2, CS 498 RL3, CS 498 RL4) - Reinforcement Learning', 'CS 542 - Stat Reinforcement Learning', 'CS 598 NJ - Statistical Reinforcement']
+ 
+ 
+Recent courses taught by professor: Laxmikant V Kale    Url: https://cs.illinois.edu/about/people/all-faculty/kale
+ 
+ 
+['CS 484 - Parallel Programming', 'CS 591 LVK - Advanced Seminar']
+ 
+ 
+Recent courses taught by professor: Samuel N Kamin    Url: https://cs.illinois.edu/about/people/all-faculty/kamin
+ 
+ 
+ Recent courses taught by  Samuel N Kamin  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Daniel Kang    Url: https://cs.illinois.edu/about/people/all-faculty/ddkang
+ 
+ 
+['CS 511 - Advanced Data Management', 'CS 598 MS - ML + Data Systems']
+ 
+ 
+Recent courses taught by professor: Karrie Karahalios    Url: https://cs.illinois.edu/about/people/all-faculty/kkarahal
+ 
+ 
+['CS 467 - Social Visualization', 'CS 567 - Social Spaces', 'CS 591 JI - Just Infrastructures', 'CS 598 KGK - Social Spaces on the Internet', 'IS 266 (MACS 266) - Community Innovation', 'MACS 265 (IS 265) -  Innovation Illinois']
+ 
+ 
+Recent courses taught by professor: Daniel S Katz    Url: https://cs.illinois.edu/about/people/all-faculty/dskatz
+ 
+ 
+['CS 199 INC (CS 199 REU) - INCLUSION project']
+ 
+ 
+Recent courses taught by professor: Dakshita Khurana    Url: https://cs.illinois.edu/about/people/all-faculty/dakshita
+ 
+ 
+['CS 374 AL1 (CS 374 AL2, ECE 374 AL1, ECE 374 AL2) - Intro to Algs & Models of Comp', 'CS 498 AC3 (CS 498 AC4, CS 498 QC3, CS 498 QCG, CS 498 QCU) - Intro to Quantum Computing', 'CS 507 - Topics in Cryptography', 'CS 598 CTO (CS 598 DK) - Special Topics in Cryptography', 'ECE 407 (CS 407) - Cryptography', 'ECE 498 AC3 (ECE 498 AC4) - Applied Cryptography']
+ 
+ 
+Recent courses taught by professor: Nam Sung Kim    Url: https://cs.illinois.edu/about/people/all-faculty/nskim
+ 
+ 
+['ECE 411 - Computer Organization & Design', 'ECE 512 - Computer Microarchitecture']
+ 
+ 
+Recent courses taught by professor: Volodymyr Kindratenko    Url: https://cs.illinois.edu/about/people/all-faculty/kindrtnk
+ 
+ 
+['CS 225 - Data Structures', 'ECE 120 - Introduction to Computing', 'ECE 220 - Computer Systems & Programming', 'ECE 408 (CS 483, CSE 408) - Applied Parallel Programming', 'ECE 425 - Intro to VLSI System Design', 'ECE 498 ZJU - IoT and Cognitive Computing']
+ 
+ 
+Recent courses taught by professor: Alex Kirlik    Url: https://cs.illinois.edu/about/people/all-faculty/kirlik
+ 
+ 
+['CS 465 - User Interface Design', 'CS 498 KA3 (CS 498 KA4) - Experimental Methods for HCI', 'CS 565 - Human-Computer Interaction', 'CS 591 HCI - Human-Computer Interaction', 'CS 598 AK - Experimental HCI']
+ 
+ 
+Recent courses taught by professor: Andreas Paul Eberhard Kloeckner    Url: https://cs.illinois.edu/about/people/all-faculty/andreask
+ 
+ 
+['CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis', 'CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs', 'CS 591 MH - Scientific Computing Seminar', 'CS 598 APK - Special Topics']
+ 
+ 
+Recent courses taught by professor: Bill Kramer    Url: https://cs.illinois.edu/about/people/all-faculty/wtkramer
+ 
+ 
+ Recent courses taught by  Bill Kramer  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Robin Hillary Kravets    Url: https://cs.illinois.edu/about/people/all-faculty/rhk
+ 
+ 
+['CS 438 (ECE 438) - Communication Networks', 'CS 498 WN3 (CS 498 WN4) - Wireless Network Lab', 'CS 591 PH2 (CS 591 PHD, CS 591 SCH, CS 591 WN) - Wireless Networking Seminar', 'ECE 439 (CS 439) - Wireless Networks', 'ENG 572 - Professional Practicum']
+ 
+ 
+Recent courses taught by professor: David J Kuck    Url: https://cs.illinois.edu/about/people/all-faculty/kuck
+ 
+ 
+ Recent courses taught by  David J Kuck  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Rakesh Kumar    Url: https://cs.illinois.edu/about/people/all-faculty/rakeshk
+ 
+ 
+['ECE 411 - Computer Organization & Design', 'ECE 445 - Senior Design Project Lab', 'ECE 498 HK - Advanced VLSI System Design', 'ECE 511 (CSE 521) - Computer Architecture', 'ECE 512 - Computer Microarchitecture', 'ME 470 ZJ1 - Senior Design Project', 'ME 498 ZJ1 - Senior Design Project']
+ 
+ 
+Recent courses taught by professor: Ranjitha Kumar    Url: https://cs.illinois.edu/about/people/all-faculty/ranjitha
+ 
+ 
+['CS 199 US - Underground Unicorn Seminar', 'CS 409 - The Art of Web Programming', 'CS 498 RK1 (CS 498 RK2, CS 498 RK3, CS 498 RK4) - Art and Science of Web Prog', 'CS 568 - User-Centered Machine Learning', 'CS 598 RK - HCI for ML', 'TE 100 - Intro to ILEE', 'TE 440 - Engineering City Scholars']
+ 
+ 
+Recent courses taught by professor: H Chad Lane    Url: https://cs.illinois.edu/about/people/all-faculty/hclane
+ 
+ 
+['CI 210 - Intro to Digital Learning Env', 'CS 498 CL1 (CS 498 CL2) - AI Applications in Education', 'EPSY 199 - Undergraduate Open Seminar', 'EPSY 490 - Learning in Everyday Contexts', 'EPSY 590 - Mobile Apps for Teaching', 'GSD 490 - Educational Games Research', 'INFO 590 - Mobile Apps Online']
+ 
+ 
+Recent courses taught by professor: Steven M. LaValle    Url: https://cs.illinois.edu/about/people/all-faculty/lavalle
+ 
+ 
+['CS 598 RR - Representations in Robotics']
+ 
+ 
+Recent courses taught by professor: Duncan H Lawrie    Url: https://cs.illinois.edu/about/people/all-faculty/lawrie
+ 
+ 
+ Recent courses taught by  Duncan H Lawrie  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Svetlana Lazebnik    Url: https://cs.illinois.edu/about/people/all-faculty/slazebni
+ 
+ 
+['CS 440 (ECE 448) - Artificial Intelligence', 'CS 444 - Deep Learning for Compt Visn', 'CS 498 DL3 (CS 498 DL4) - Introduction to Deep Learning', 'CS 598 LAZ - Vision', 'ECE 549 (CS 543) - Computer Vision']
+ 
+ 
+Recent courses taught by professor: Kirill Levchenko    Url: https://cs.illinois.edu/about/people/all-faculty/klevchen
+ 
+ 
+['CS 461 (ECE 422) - Computer Security I', 'CS 491 CB - Cyber Security Scholar Program', 'ECE 120 - Introduction to Computing', 'ECE 498 KL - eCrime & Internet Serv Abuse']
+ 
+ 
+Recent courses taught by professor: Colleen M. Lewis    Url: https://cs.illinois.edu/about/people/all-faculty/colleenl
+ 
+ 
+['CS 105 - Intro Computing: Non-Tech', 'CS 124 - Intro to Computer Science I', 'CS 199 CA1 (CS 199 CA2, CS 199 CA3, CS 199 CAL, CS 199 CAO, CS 199 CL1, CS 199 CL2, CS 199 CL3, CS 199 LCA, CS 199 OCA, CS 199 STR) - CS Stars Seminar', 'CS 491 EIT - Intro to Inclusive Terminology', 'CS 500 - Topics in Comp Ed Rsrch', 'CS 591 CED (CS 591 DEI, CS 591 PFC) - Supporting Inclusive Computing', 'CS 598 CCE (CS 598 KMC, CS 598 KPH) - Foundations for Comp. Ed Res.', 'ENG 591 DEI - Diversity & Inclusion Service']
+ 
+ 
+Recent courses taught by professor: Bo Li    Url: https://cs.illinois.edu/about/people/all-faculty/lbo
+ 
+ 
+['CS 307 - Model & Learning in Data Sci', 'CS 442 - Trustworthy Machine Learning', 'CS 498 LB1 (CS 498 LB2) - Trustworthy Machine Learning', 'CS 562 - Adv Topics in Sec, Priv and ML', 'CS 598 BL - Adversarial Machine Learning']
+ 
+ 
+Recent courses taught by professor: Yunzhu Li    Url: https://cs.illinois.edu/about/people/all-faculty/yunzhuli
+ 
+ 
+['CS 598 YL - Robotic Manipulation']
+ 
+ 
+Recent courses taught by professor: Hongye Liu    Url: https://cs.illinois.edu/about/people/all-faculty/hl314
+ 
+ 
+['CS 361 (STAT 361) - Prob & Stat for Computer Sci']
+ 
+ 
+Recent courses taught by professor: Jane W.-S. Liu    Url: https://cs.illinois.edu/about/people/all-faculty/j-liu1
+ 
+ 
+ Recent courses taught by  Jane W.-S. Liu  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Bertram Ludaescher    Url: https://cs.illinois.edu/about/people/all-faculty/ludaesch
+ 
+ 
+['IS 477 - Data Mgmt, Curation, & Reprodu', 'IS 515 - Information Modeling', 'IS 532 (IS 537, CS 513) - Theory & Prct of Data Cleaning', 'IS 590 - Theory & Prac of Data Cleaning']
+ 
+ 
+Recent courses taught by professor: Steven Lumetta    Url: https://cs.illinois.edu/about/people/all-faculty/lumetta
+ 
+ 
+['ECE 101 - Exploring Digital Info Technol', 'ECE 120 - Introduction to Computing', 'ECE 220 - Computer Systems & Programming', 'ECE 391 - Computer Systems Engineering', 'ECE 408 (CS 483, CSE 408) - Applied Parallel Programming', 'ECE 508 (CS 508) - Manycore Parallel Algorithms']
+ 
+ 
+Recent courses taught by professor: Darko Marinov    Url: https://cs.illinois.edu/about/people/all-faculty/marinov
+ 
+ 
+['CS 428 (CSE 429) - Software Engineering II', 'CS 429 - Software Engineering II, ACP', 'CS 491 WF - Adv Competitive Algorithm Prog', 'CS 527 - Topics in Software Engineering', 'CS 591 PHD (CS 591 SCH, CS 591 SE) - Software Engineering Seminar', 'CS 598 DM - Software Testing for All']
+ 
+ 
+Recent courses taught by professor: Kenton Guadron McHenry    Url: https://cs.illinois.edu/about/people/all-faculty/mchenry
+ 
+ 
+ Recent courses taught by  Kenton Guadron McHenry  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Ruta Mehta    Url: https://cs.illinois.edu/about/people/all-faculty/rutameht
+ 
+ 
+['CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp', 'CS 473 (CSE 414, MATH 473) - Algorithms', 'CS 580 - Topics in Algrthmc Game Theory', 'CS 598 RM (CS 598 TH1) - Recent Advances in TCS']
+ 
+ 
+Recent courses taught by professor: Charith Mendis    Url: https://cs.illinois.edu/about/people/all-faculty/charithm
+ 
+ 
+['CS 526 - Advanced Compiler Construction', 'CS 591 ACT - Advanced Compiler Technology', 'CS 598 CM - ML for Compilers & Architect.']
+ 
+ 
+Recent courses taught by professor: Jose Meseguer    Url: https://cs.illinois.edu/about/people/all-faculty/meseguer
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 476 - Program Verification', 'CS 524 - Concurrent Progrmg Languages', 'CS 576 - Topics in Automated Deduction', 'CS 591 JM - Advanced Seminar']
+ 
+ 
+Recent courses taught by professor: M Dennis Mickunas    Url: https://cs.illinois.edu/about/people/all-faculty/mickunas
+ 
+ 
+ Recent courses taught by  M Dennis Mickunas  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Olgica Milenkovic    Url: https://cs.illinois.edu/about/people/all-faculty/milenkov
+ 
+ 
+['ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 365 - Data Science and Engineering', 'ECE 534 - Random Processes', 'ECE 556 - Coding Theory', 'ECE 563 - Information Theory', 'ECE 598 OM - Molecular Storage/Computing']
+ 
+ 
+Recent courses taught by professor: Andrew Miller    Url: https://cs.illinois.edu/about/people/all-faculty/soc1024
+ 
+ 
+['CS 374 BL1 (ECE 374 BL1, ECE 374 BLZ, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF) - Intro to Algs & Models of Comp', 'CS 498 AM3 (CS 498 AM4) - Applied Cryptography', 'CS 498 AM4 - Applied Cryptography', 'CS 563 (ECE 524) - Advanced Computer Security', 'ECE 391 - Computer Systems Engineering', 'ECE 398 SC - Smart Contracts & Blockchain S', 'ECE 407 (CS 407) - Cryptography', 'ECE 498 AC3 (ECE 498 AC4, ECE 498 AM3, ECE 498 AM4) - Applied Cryptography', 'ECE 598 AM - Ideal Funct. in Cryptography']
+ 
+ 
+Recent courses taught by professor: Sasa Misailovic    Url: https://cs.illinois.edu/about/people/all-faculty/misailo
+ 
+ 
+['CS 421 - Progrmg Languages & Compilers', 'CS 426 - Compiler Construction', 'CS 477 (ECE 478) - Formal Software Devel Methods', 'CS 521 - Adv Topics in Pgm Systems', 'CS 526 - Advanced Compiler Construction', 'CS 591 ACT (CS 591 SE) - Software Engineering Seminar', 'CS 598 SM - Approx & Probabilistic Comp']
+ 
+ 
+Recent courses taught by professor: Sayan Mitra    Url: https://cs.illinois.edu/about/people/all-faculty/mitras
+ 
+ 
+['CS 498 SM - Principles of Safe Autonomy', 'ECE 220 - Computer Systems & Programming', 'ECE 484 - Principles of Safe Autonomy', 'ECE 498 SM (ECE 498 SMA) - Principles of Safe Autonomy', 'ECE 584 (CS 584) - Embedded System Verification']
+ 
+ 
+Recent courses taught by professor: Radhika Mittal    Url: https://cs.illinois.edu/about/people/all-faculty/radhikam
+ 
+ 
+['CS 425 (ECE 428) - Distributed Systems', 'CS 598 HPN - High-Speed/Progrmable Networks', 'ECE 598 HPN - High-Speed/Progrmable Networks']
+ 
+ 
+Recent courses taught by professor: Marco Morales Aguirre    Url: https://cs.illinois.edu/about/people/all-faculty/moralesa
+ 
+ 
+['CS 441 - Applied Machine Learning', 'CS 498 AM1 (CS 498 AML, CS 498 AMO, CS 498 MM3, CS 498 MM4, CS 498 MMU) - Robotic Systems']
+ 
+ 
+Recent courses taught by professor: William Steven Moses    Url: https://cs.illinois.edu/about/people/all-faculty/wsmoses
+ 
+ 
+ Recent courses taught by  William Steven Moses  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Klara Nahrstedt    Url: https://cs.illinois.edu/about/people/all-faculty/klara
+ 
+ 
+['CS 537 - Advanced Topics in IoT', 'CS 598 KN - Advanced Multimedia Systems']
+ 
+ 
+Recent courses taught by professor: Yee Man (Margaret) Ng    Url: https://cs.illinois.edu/about/people/all-faculty/ymn
+ 
+ 
+['JOUR 199 - Hands-on Media Technology', 'JOUR 200 - Introduction to Journalism', 'JOUR 410 - Data Storytelling for Journ', 'JOUR 425 - Multimedia Editing and Design', 'JOUR 460 - Data Visualization']
+ 
+ 
+Recent courses taught by professor: David M. Nicol    Url: https://cs.illinois.edu/about/people/all-faculty/dmnicol
+ 
+ 
+['CS 460 ALG (CS 460 ALU, CS 460 LB1) - Security Laboratory']
+ 
+ 
+Recent courses taught by professor: Michael Nowak    Url: https://cs.illinois.edu/about/people/all-faculty/mnowak1
+ 
+ 
+['CS 128 - Intro to Computer Science II', 'CS 199 128 - Supplementary proj. for CS-128']
+ 
+ 
+Recent courses taught by professor: Idoia Ochoa    Url: https://cs.illinois.edu/about/people/all-faculty/idoia
+ 
+ 
+['ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 562 - Advanced Digital Communication']
+ 
+ 
+Recent courses taught by professor: Luke Olson    Url: https://cs.illinois.edu/about/people/all-faculty/lukeo
+ 
+ 
+['CS 199 PY1 - Python for Data', 'CS 357 (MATH 357) - Numerical Methods I', 'CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis', 'CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs', 'CS 556 (CSE 511) - Iterative & Multigrid Methods', 'CS 591 DSE (CS 591 MH) - Scientific Computing Seminar', 'CS 598 SML - Scientific Machine Learning']
+ 
+ 
+Recent courses taught by professor: David Padua    Url: https://cs.illinois.edu/about/people/all-faculty/padua
+ 
+ 
+['CS 296 33 - Honors Course', 'CS 420 (CSE 402, ECE 492) - Parallel Progrmg: Sci & Engrg', 'CS 426 - Compiler Construction', 'CS 591 ACT - Advanced Seminar', 'CS 598 DHP - Compiler Tech for Parallelism']
+ 
+ 
+Recent courses taught by professor: Yongjoo Park    Url: https://cs.illinois.edu/about/people/all-faculty/yongjoo
+ 
+ 
+['CS 411 - Database Systems', 'CS 511 - Advanced Data Management', 'CS 598 YP - Special Topics']
+ 
+ 
+Recent courses taught by professor: Madhusudan Parthasarathy    Url: https://cs.illinois.edu/about/people/all-faculty/madhu
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 196 73 - Freshman Honors', 'CS 199 173 - Supplementary proj for CS-173', 'CS 421 - Progrmg Languages & Compilers', 'CS 474 - Logic in Computer Science', 'CS 477 (ECE 478) - Formal Software Devel Methods', 'CS 498 MP3 (CS 498 MP4) - Logic in Computer Science', 'CS 521 - Adv Topics in Pgm Systems', 'CS 591 FMG - Formal Methods Seminar', 'CS 598 MP - Special Topics']
+ 
+ 
+Recent courses taught by professor: Sanjay Patel    Url: https://cs.illinois.edu/about/people/all-faculty/sjp
+ 
+ 
+['ECE 220 - Computer Systems & Programming', 'ECE 408 (CS 483, CSE 408) - Applied Parallel Programming', 'ECE 498 SJP - Accelerator Architectures', 'ENG 573 - Capstone Project', 'TE 401 C - Develop Breakthrough Projects', 'TE 498 AL1 - Alchemy Project Laboratory 1']
+ 
+ 
+Recent courses taught by professor: Hao Peng    Url: https://cs.illinois.edu/about/people/all-faculty/haopeng
+ 
+ 
+['CS 598 PEN - Efficiency in NLP']
+ 
+ 
+Recent courses taught by professor: Jian Peng    Url: https://cs.illinois.edu/about/people/all-faculty/jianpeng
+ 
+ 
+['CS 466 - Introduction to Bioinformatics', 'CS 598 JP - Machine Lrning Computation Bio']
+ 
+ 
+Recent courses taught by professor: Leonard B Pitt    Url: https://cs.illinois.edu/about/people/all-faculty/pitt
+ 
+ 
+['CS 100 - Freshman Orientation']
+ 
+ 
+Recent courses taught by professor: Maxim Raginsky    Url: https://cs.illinois.edu/about/people/all-faculty/maxim
+ 
+ 
+['ECE 486 - Control Systems', 'ECE 515 (ME 540) - Control System Theory & Design', 'ECE 517 - Nonlinear & Adaptive Control', 'ECE 543 - Statistical Learning Theory', 'ECE 555 - Control of Stochastic Systems', 'ECE 563 - Information Theory', 'ECE 580 - Optimiz by Vector Space Methds', 'ECE 586 MR - Topics in Decision and Control']
+ 
+ 
+Recent courses taught by professor: Lawrence Rauchwerger    Url: https://cs.illinois.edu/about/people/all-faculty/rwerger
+ 
+ 
+['CS 426 - Compiler Construction', 'CS 484 - Parallel Programming', 'CS 498 P3 (CS 498 P4) - Parallel Programming', 'CS 591 ACT (CS 591 CS, CS 591 CSO) - CS Colloquium', 'CS 598 LRW (CS 598 PPM) - Parallel Programming Models']
+ 
+ 
+Recent courses taught by professor: Jim Rehg    Url: https://cs.illinois.edu/about/people/all-faculty/jrehg
+ 
+ 
+ Recent courses taught by  Jim Rehg  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: John F. Reid    Url: https://cs.illinois.edu/about/people/all-faculty/j-reid1
+ 
+ 
+ Recent courses taught by  John F. Reid  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Edward M Reingold    Url: https://cs.illinois.edu/about/people/all-faculty/reingold
+ 
+ 
+ Recent courses taught by  Edward M Reingold  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Ling Ren    Url: https://cs.illinois.edu/about/people/all-faculty/renling
+ 
+ 
+['CS 461 (ECE 422) - Computer Security I', 'CS 591 SP - Security and Privacy', 'CS 598 CAL (CS 598 FTD, CS 598 LR) - Consensus Algorithms', 'ECE 526 (CS 539) - Distributed Algorithms']
+ 
+ 
+Recent courses taught by professor: Talia Ringer    Url: https://cs.illinois.edu/about/people/all-faculty/tringer
+ 
+ 
+['CS 421 - Progrmg Languages & Compilers', 'CS 576 - Topics in Automated Deduction', 'CS 598 TLR - Proof Automation']
+ 
+ 
+Recent courses taught by professor: Gene E Robinson    Url: https://cs.illinois.edu/about/people/all-faculty/generobi
+ 
+ 
+['IB 299 - Training in Team Science', 'IB 546 - Topics in Ecology & Evolution', 'MCB 199 - Training in Team Science']
+ 
+ 
+Recent courses taught by professor: Pablo D Robles Granda    Url: https://cs.illinois.edu/about/people/all-faculty/pdr
+ 
+ 
+['CS 410 - Text Information Systems', 'CS 441 - Applied Machine Learning']
+ 
+ 
+Recent courses taught by professor: Grigore Rosu    Url: https://cs.illinois.edu/about/people/all-faculty/grosu
+ 
+ 
+['CS 422 - Programming Language Design', 'CS 427 (CSE 426) - Software Engineering I', 'CS 522 - Programming Language Semantics']
+ 
+ 
+Recent courses taught by professor: Romit Roy Choudhury    Url: https://cs.illinois.edu/about/people/all-faculty/croy
+ 
+ 
+['CS 438 (ECE 438) - Communication Networks', 'CS 591 WN - Wireless Networking Seminar', 'ECE 101 - Exploring Digital Info Technol', 'ECE 434 (CS 434) - Mobile Computing & Application', 'ECE 439 (CS 439) - Wireless Networks', 'ECE 498 RC3 (ECE 498 RC4) - Smartphone Computing and Appli']
+ 
+ 
+Recent courses taught by professor: Koustuv Saha    Url: https://cs.illinois.edu/about/people/all-faculty/ksaha2
+ 
+ 
+['CS 598 KSA - Social Computing']
+ 
+ 
+Recent courses taught by professor: Bruce R Schatz    Url: https://cs.illinois.edu/about/people/all-faculty/schatz
+ 
+ 
+ Recent courses taught by  Bruce R Schatz  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Jule Schatz    Url: https://cs.illinois.edu/about/people/all-faculty/drschatz
+ 
+ 
+['CS 128 - Intro to Computer Science II']
+ 
+ 
+Recent courses taught by professor: Alexander Schwing    Url: https://cs.illinois.edu/about/people/all-faculty/aschwing
+ 
+ 
+['CS 446 (ECE 449) - Machine Learning', 'ECE 398 AS - Progm Mthds - Machine Learning', 'ECE 544 NA (ECE 544 ONL) - Pattern Recognition']
+ 
+ 
+Recent courses taught by professor: Lui Sha    Url: https://cs.illinois.edu/about/people/all-faculty/lrs
+ 
+ 
+['CS 424 - Real-Time Systems', 'CS 431 - Embedded Systems', 'CS 591 LRS - Improving your Research Skills', 'CS 598 LRS (CS 598 RTS) - Real Time Systems']
+ 
+ 
+Recent courses taught by professor: Eric Gene Shaffer    Url: https://cs.illinois.edu/about/people/all-faculty/shaffer1
+ 
+ 
+['CS 100 - Computer Science Orientation', 'CS 199 1PY (CS 199 GAM, CS 199 LD1, CS 199 PY1) - Python for Data', 'CS 225 - Data Structures', 'CS 296 25 - Honors Course', 'CS 415 - Game Development', 'CS 418 (CSE 427) - Interactive Computer Graphics', 'CS 419 - Production Computer Graphics', 'CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis', 'CS 498 GD1 (CS 498 GD2, CS 498 GD3, CS 498 GD4, CS 498 GDU, CS 498 VR1, CS 498 VR3, CS 498 VR4) - Virtual Reality', 'CS 519 (CSE 527) - Scientific Visualization']
+ 
+ 
+Recent courses taught by professor: Mariana Silva    Url: https://cs.illinois.edu/about/people/all-faculty/mfsilva
+ 
+ 
+['CS 199 1PY (CS 199 D1, CS 199 D2, CS 199 LD1, CS 199 MTS, CS 199 PY1) - Python for Data', 'CS 357 (MATH 357) - Numerical Methods I', 'CS 498 OL3 (CS 498 OL4) - Intro to Online Learning Sys', 'MATH 299 - Computational Tools Linear Alg', 'MATH 415 - Applied Linear Algebra', 'TAM 251 - Introductory Solid Mechanics']
+ 
+ 
+Recent courses taught by professor: Gagandeep Singh    Url: https://cs.illinois.edu/about/people/all-faculty/ggnds
+ 
+ 
+['CS 477 (ECE 478) - Formal Software Devel Methods', 'CS 521 - Adv Topics in Pgm Systems', 'CS 591 ACT - Advanced Compiler Technology', 'CS 598 GDS - Logic and AI']
+ 
+ 
+Recent courses taught by professor: Makrand SINHA    Url: https://cs.illinois.edu/about/people/all-faculty/msinha
+ 
+ 
+['CS 498 QC3 (CS 498 QCG, CS 498 QCU) - Intro to Quantum Computing', 'CS 598 MS - Special Topics']
+ 
+ 
+Recent courses taught by professor: Robert D Skeel    Url: https://cs.illinois.edu/about/people/all-faculty/skeel
+ 
+ 
+ Recent courses taught by  Robert D Skeel  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Paris Smaragdis    Url: https://cs.illinois.edu/about/people/all-faculty/paris
+ 
+ 
+['CS 448 - Audio Computing Laboratory', 'CS 498 PS3 (CS 498 PS4) - Audio Computing Lab', 'CS 545 - Machine Learning for Signals', 'CS 598 PS (CS 598 PSE) - Mach Lrng for Signal Processng']
+ 
+ 
+Recent courses taught by professor: Marc Snir    Url: https://cs.illinois.edu/about/people/all-faculty/snir
+ 
+ 
+['CS 420 (CSE 402, ECE 492) - Parallel Progrmg: Sci & Engrg', 'CS 498 MS3 (CS 498 MS4) - Parallel Algorithms', 'CS 598 MS - Parallel Algorithms']
+ 
+ 
+Recent courses taught by professor: Brad R Solomon    Url: https://cs.illinois.edu/about/people/all-faculty/bradsol
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 199 225 - Supplementary proj. for CS-225', 'CS 225 - Data Structures', 'CS 277 - Algo & Data Stru for Data Sci', 'CS 296 25 - Honors Course', 'ENG 199 PUR - PURE Research Program']
+ 
+ 
+Recent courses taught by professor: Edgar Solomonik    Url: https://cs.illinois.edu/about/people/all-faculty/solomon2
+ 
+ 
+['CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis', 'CS 554 (CSE 512) - Parallel Numerical Algorithms', 'CS 598 EVS - Tensor Computations']
+ 
+ 
+Recent courses taught by professor: Elahe Soltanaghai    Url: https://cs.illinois.edu/about/people/all-faculty/elahe
+ 
+ 
+['CS 437 EKS - Topics in Internet of Things', 'CS 591 WN - Wireless Networking Seminar', 'CS 598 EKS - Smart cities, homes, & beyond']
+ 
+ 
+Recent courses taught by professor: Rayadurgam Srikant    Url: https://cs.illinois.edu/about/people/all-faculty/rsrikant
+ 
+ 
+['ECE 490 (CSE 441) - Introduction to Optimization', 'ECE 528 (ME 546, SE 520) - Analysis of Nonlinear Systems', 'ECE 543 - Statistical Learning Theory', 'ECE 555 - Control of Stochastic Systems', 'ECE 567 - Communication Network Analysis', 'ECE 586 RS - MDPs, Reinforcement Learning']
+ 
+ 
+Recent courses taught by professor: Sarah Gimbert Sterman    Url: https://cs.illinois.edu/about/people/all-faculty/ssterman
+ 
+ 
+['CS 598 SMC (CS 598 SPH) - Research Methods in HCI']
+ 
+ 
+Recent courses taught by professor: Jimeng Sun    Url: https://cs.illinois.edu/about/people/all-faculty/jimeng
+ 
+ 
+['CS 498 LHO - Deep Learning for Healthcare', 'CS 598 DLH (CS 598 LHO) - Deep Learning For Healthcare']
+ 
+ 
+Recent courses taught by professor: Hari Sundaram    Url: https://cs.illinois.edu/about/people/all-faculty/hs1
+ 
+ 
+['ADV 490 - Computational Advertising', 'CS 412 CSP (CS 412 ONL, CS 412 P3, CS 412 P4) - Introduction to Data Mining', 'CS 469 (ADV 462) - Comp Adv Infrastructure', 'CS 470 - Social and Information Network', 'CS 498 CA3 (CS 498 CA4, CS 498 CAU, CS 498 HS1, CS 498 HS2, CS 498 HS3, CS 498 HS4) - Computational Advertising', 'CS 514 - Adv Topics in Network Science', 'CS 597 HS - Individual Study', 'CS 598 HS (CS 598 HSO) - Adv Social&Information; Network']
+ 
+ 
+Recent courses taught by professor: Ruby Tahboub    Url: https://cs.illinois.edu/about/people/all-faculty/rubyt
+ 
+ 
+['CS 101 - Intro Computing: Engrg & Sci', 'CS 412 P3 (CS 412 P4, CS 412 PG, CS 412 PU) - Introduction to Data Mining']
+ 
+ 
+Recent courses taught by professor: Matus Jan Telgarsky    Url: https://cs.illinois.edu/about/people/all-faculty/mjt
+ 
+ 
+['CS 446 (ECE 449) - Machine Learning', 'CS 540 - Deep Learning Theory', 'CS 598 DLT (CS 598 TEL) - Machine Learning Theory']
+ 
+ 
+Recent courses taught by professor: Michael Benjamin Tissenbaum    Url: https://cs.illinois.edu/about/people/all-faculty/miketiss
+ 
+ 
+['CI 435 - Tech Applications for Teachers', 'CI 438 - Comp Prgrmmg and the Classroom', 'CI 482 - Social Learning and Multimedia', 'CI 489 - Ed Tech Capstone Course', 'CI 499 - Technology Apps for Teachers', 'CI 590 - DELTA Grad Seminar', 'EPSY 556 - Analysis of Educational Tech']
+ 
+ 
+Recent courses taught by professor: Hanghang Tong    Url: https://cs.illinois.edu/about/people/all-faculty/htong
+ 
+ 
+['CS 412 CSP (CS 412 ONL, CS 412 P3, CS 412 P4) - Introduction to Data Mining', 'CS 512 - Data Mining Principles', 'CS 514 - Adv Topics in Network Science', 'CS 598 HT - Network Mining']
+ 
+ 
+Recent courses taught by professor: Josep Torrellas    Url: https://cs.illinois.edu/about/people/all-faculty/torrella
+ 
+ 
+['CS 433 (CSE 422) - Computer System Organization', 'CS 533 (CSE 522) - Parallel Computer Architecture', 'CS 534 - Adv Topics in Comp Arch', 'CS 598 JT (CS 598 JTE) - Energy-Efficient Comp Architec']
+ 
+ 
+Recent courses taught by professor: Michael Twidale    Url: https://cs.illinois.edu/about/people/all-faculty/twidale
+ 
+ 
+['IS 419 - Entrepreneurial IT Design', 'IS 426 (IS 461) - Museum Informatics', 'IS 490 - Entrepreneurial IT Design', 'IS 555 (IS 586) - Usability Engineering']
+ 
+ 
+Recent courses taught by professor: Luther Tychonievich    Url: https://cs.illinois.edu/about/people/all-faculty/luthert
+ 
+ 
+['CS 340 - Intro to Computer Systems', 'CS 415 - Game Development', 'CS 418 (CSE 427) - Interactive Computer Graphics']
+ 
+ 
+Recent courses taught by professor: Lav R Varshney    Url: https://cs.illinois.edu/about/people/all-faculty/varshney
+ 
+ 
+['ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 398 BD - Making Sense of Big Data', 'ECE 498 LV3 (ECE 498 LV4) - Network Sci.: Dynamics & Flow', 'ECE 563 - Information Theory', 'ECE 598 LV - Generative AI Models', 'TE 100 - Intro to ILEE']
+ 
+ 
+Recent courses taught by professor: Deepak Vasisht    Url: https://cs.illinois.edu/about/people/all-faculty/deepakv
+ 
+ 
+['CS 438 (ECE 438) - Communication Networks', 'CS 498 DV1 (CS 498 DV2) - ML in Wireless Networks', 'CS 591 WN - Wireless Networking Seminar', 'CS 598 WSI - Wireless Sys for The IOT']
+ 
+ 
+Recent courses taught by professor: Pramod Viswanath    Url: https://cs.illinois.edu/about/people/all-faculty/pramodv
+ 
+ 
+['ECE 313 (MATH 362) - Probability with Engrg Applic', 'ECE 398 BD - Making Sense of Big Data', 'ECE 461 - Digital Communications', 'ECE 598 PV - Learning: Algorithms & Models']
+ 
+ 
+Recent courses taught by professor: Mahesh Viswanathan    Url: https://cs.illinois.edu/about/people/all-faculty/vmahesh
+ 
+ 
+['CS 173 - Discrete Structures', 'CS 196 73 - Freshman Honors', 'CS 199 FRD - Teaching Techniques Seminar', 'CS 240 - Intro to Computer Systems', 'CS 296 73 - Honors Course', 'CS 307 - Model & Learning in Data Sci', 'CS 374 BL1 (CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 BYG, CS 374 BYH, ECE 374 BL2, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 BYG, ECE 374 BYH) - Intro to Algs & Models of Comp', 'CS 441 - Applied Machine Learning', 'CS 474 - Logic in Computer Science', 'CS 475 (MATH 475) - Formal Models of Computation', 'CS 498 MV3 (CS 498 MV4) - Logic', 'CS 591 FM - Formal Methods Seminar']
+ 
+ 
+Recent courses taught by professor: Gang Wang    Url: https://cs.illinois.edu/about/people/all-faculty/gangw
+ 
+ 
+['CS 463 (ECE 424) - Computer Security II', 'CS 562 - Adv. Trustworthy Mach. Lrng.', 'CS 598 GW - ML for Sys, Netwrks & Security']
+ 
+ 
+Recent courses taught by professor: Shaowen Wang    Url: https://cs.illinois.edu/about/people/all-faculty/shaowen
+ 
+ 
+['GEOG 407 - CyberGIS & Geospatial Data Sci', 'GEOG 479 - Spatial Computing & Modeling', 'GEOG 480 - Principles of GIS', 'GEOG 595 - GIS Professional Seminar']
+ 
+ 
+Recent courses taught by professor: Shenlong Wang    Url: https://cs.illinois.edu/about/people/all-faculty/shenlong
+ 
+ 
+['CS 446 (ECE 449) - Machine Learning', 'CS 498 MP3 (CS 498 MPG, CS 498 MPU, CS 498 SW3, CS 498 SW4, CS 498 SWU) - Intro to Machine Perception', 'CS 598 SHW - Adv. Top. in Robot Perception']
+ 
+ 
+Recent courses taught by professor: Yang Wang    Url: https://cs.illinois.edu/about/people/all-faculty/yvw
+ 
+ 
+['IS 226 - Introduction to HCI', 'IS 236 - User Research & Evaluation', 'IS 327 - Concepts of Machine Learning', 'IS 517 - Methods of Data Science', 'IS 549 - Practicum', 'IS 590 - Privacy in the Internet Age']
+ 
+ 
+Recent courses taught by professor: Yuxiong Wang    Url: https://cs.illinois.edu/about/people/all-faculty/yxw
+ 
+ 
+['CS 445 - Computational Photography', 'CS 598 ACV (CS 598 LTL) - Learning to learn']
+ 
+ 
+Recent courses taught by professor: Tandy Warnow    Url: https://cs.illinois.edu/about/people/all-faculty/warnow
+ 
+ 
+['BIOE 540 (CS 581) - Algorithmic Genomic Biology', 'CS 173 - Discrete Structures', 'CS 196 73 - Freshman Honors', 'CS 591 BIO - Bioinformatics and Computation']
+ 
+ 
+Recent courses taught by professor: Tiffani L Williams    Url: https://cs.illinois.edu/about/people/all-faculty/tiffani
+ 
+ 
+['CS 400 - Accel Fund of Computing I', 'CS 402 - Accel Fund of Computing II', 'CS 491 ECO (CS 491 EIC) - Excursions in computing II', 'CS 498 FCS - Fundamentals of Comp Sci II', 'CS 591 EIC - Excursions in Computing II']
+ 
+ 
+Recent courses taught by professor: Marianne S Winslett    Url: https://cs.illinois.edu/about/people/all-faculty/winslett
+ 
+ 
+ Recent courses taught by  Marianne S Winslett  is not mentioned in this url
+ 
+ 
+Recent courses taught by professor: Michael Joseph Woodley    Url: https://cs.illinois.edu/about/people/all-faculty/mwoodley
+ 
+ 
+['CS 126 - Software Design Studio', 'CS 222 - Software Design Lab', 'CS 242 - Programming Studio', 'CS 492 - Senior Project I', 'CS 493 - Senior Project II, ACP', 'CS 494 - Senior Project II']
+ 
+ 
+Recent courses taught by professor: Abigail Wooldridge    Url: https://cs.illinois.edu/about/people/all-faculty/arwool
+ 
+ 
+['IE 340 (PSYC 358) - Human Factors', 'IE 498 AW - Job and Organization Design', 'IE 546 (EPSY 546) - Human Factors in HCES', 'IE 590 - Seminar', 'IE 598 AW (IE 598 FHC) - Field Research in Health Care', 'SE 590 - Seminar']
+ 
+ 
+Recent courses taught by professor: Tianyin Xu    Url: https://cs.illinois.edu/about/people/all-faculty/tyxu
+ 
+ 
+['CS 423 (CSE 423) - Operating Systems Design', 'CS 523 - Advanced Operating Systems', 'CS 591 DS (CS 591 IG, CS 591 SE, CS 591 SN) - Systems and Networking Seminar', 'CS 598 TXU (CS 598 XU) - Reliability of Cloud-Scale Sys']
+ 
+ 
+Recent courses taught by professor: Wenzhen Yuan    Url: https://cs.illinois.edu/about/people/all-faculty/yuanwz
+ 
+ 
+['CS 498 GS3 (CS 498 GSG, CS 498 GSU) - Designing Op-based Sensors']
+ 
+ 
+Recent courses taught by professor: ChengXiang  Zhai    Url: https://cs.illinois.edu/about/people/all-faculty/czhai
+ 
+ 
+['CS 410 - Text Information Systems', 'CS 510 - Advanced Information Retrieval', 'CS 591 TXT - Text Mining Seminar', 'CS 598 DM (CS 598 DM1, CS 598 DM2) - Data Mining Capstone']
+ 
+ 
+Recent courses taught by professor: Lingming Zhang    Url: https://cs.illinois.edu/about/people/all-faculty/lingming
+ 
+ 
+['CS 427 (CSE 426) - Software Engineering I', 'CS 527 - Topics in Software Engineering', 'CS 591 SE - Software Engineering Seminar', 'CS 598 AST (CS 598 LMZ) - ADV Software Test. & Debugging']
+ 
+ 
+Recent courses taught by professor: Han Zhao    Url: https://cs.illinois.edu/about/people/all-faculty/hanzhao
+ 
+ 
+['CS 442 - Trustworthy Machine Learning', 'CS 498 ML3 (CS 498 MLG, CS 498 MLU) - Trustworthy ML', 'CS 591 MLR - Machine Learning Reading Grp', 'CS 598 HAZ (CS 598 HOF) - Transfer Learning']
+ 
+ 
+Recent courses taught by professor: Craig Zilles    Url: https://cs.illinois.edu/about/people/all-faculty/zilles
+ 
+ 
+['CS 105 - Intro Computing: Non-Tech', 'CS 126 - Software Design Studio', 'CS 225 - Data Structures', 'CS 233 - Computer Architecture', 'CS 296 33 - Honors Course', 'CS 498 OL3 (CS 498 OL4) - Intro to Online Learning Sys', 'CS 500 - Topics in Comp Ed Rsrch', 'CS 591 CAE (CS 591 CED, CS 591 CZ) - Advanced Seminar', 'ENG 498 OL3 (ENG 498 OL4) - Intro to Online Learning Sys']
+ 
+ 
+
+[Done] exited with code=0 in 100.782 seconds
+
